@@ -1,0 +1,6 @@
+{
+  "name": "سَكِينَة - بلسم الهموم بالقرآن والتحليل النفسي",
+  "description": "مساحة آمنة لبث الشكوى وتفريغ الهموم بالصوت أو النص، مع تحليل نفسي ذكي وحلول إيمانية مستوحاة من القرآن الكريم مع تلاوات خاشعة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
